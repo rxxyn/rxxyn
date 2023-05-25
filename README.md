@@ -1,11 +1,12 @@
 ### Hello!!!
 
-# I am a YouTuber, programmer, and game developer.
-# I have most experience in Photon PUN and Unity.
+#### I am a YouTuber, programmer, and game developer.
+#### I have most experience in Photon PUN and Unity.
 
 
-## Projects
-# Fabrication - Fabrication is a plugin for Unity that makes PlayFab easier to use.
+
+### My Projects
+- [Fabrication](https://github.com/rxxyn/Fabrication) - Fabrication is a Unity plugin that allows for more use with PlayFab.
 
 <!--
 **rxxyn/rxxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
