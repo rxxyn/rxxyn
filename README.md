@@ -6,7 +6,8 @@
 
 
 ### My Projects
-- [Fabrication](https://github.com/rxxyn/Fabrication) - Fabrication is a Unity plugin that allows for more use with PlayFab.
+- [Fabrication](https://github.com/rxxyn/Fabrication) - Fabrication is a Unity plugin that allows for easy use with PlayFab.
+- [Divergent Bots](https://github.com/rxxyn/DivergentBots) - Divergent Bots is a game where you have to move like a gorilla, but your a robot. Try it out!
 
 <!--
 **rxxyn/rxxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
