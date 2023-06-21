@@ -1,8 +1,13 @@
-### Hello!!!
+### Hello!!! I am rxxyn.
 
 #### I am a YouTuber, programmer, and game developer.
+
+#### I am currently working on a VR horror game named "MENTAL". 
+
 #### I have most experience in Photon PUN and Unity.
 
+[My YouTube Channel](https://www.youtube.com/channel/UCInUBnHvFN7QkND56CZk8vw)
+[My Game Studio](https://newleafstudios.org)
 
 
 ### My Projects
