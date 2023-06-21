@@ -1,4 +1,4 @@
-### Hello!!! I am rxxyn.
+## Hello!!! I am rxxyn.
 
 #### I am a YouTuber, programmer, and game developer.
 #### I am currently working on a VR horror game named "MENTAL". 
