@@ -9,8 +9,8 @@
 #### [My Game Studio](https://newleafstudios.org)
 
 
-## My Projects
-- none right now... check later.
+## My Projects 
+- [Mirror VR](https://github.com/rxxyn/MirrorVR) is a Unity plugin that uses the Epic Online Services transport with Mirror to create a easy, free, and beginner-friendly experience for multiplayer VR games.
 
 <!--
 **rxxyn/rxxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
