@@ -11,7 +11,7 @@
 
 ## My Projects 
 - [Mirror VR](https://github.com/rxxyn/MirrorVR) is a Unity plugin that uses the Epic Online Services transport with Mirror to create a easy, free, and beginner-friendly experience for multiplayer VR games.
-- [Easy Editor Defines](https://github.com/rxxyn/EasyEditorDefines) is a Unity plugin that replaces Unity editor defines with normal bools so it doesn't make your code messy and makes it look better!
+- [Easy Editor Defines](https://github.com/rxxyn/EasyEditorDefines) is a Unity plugin that replaces Unity Editor defines with normal bools so it doesn't make your code messy and makes it look better!
 
 <!--
 **rxxyn/rxxyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
